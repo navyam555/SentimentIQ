@@ -1,1 +1,1 @@
-AI Project# SentimentIQ
+# SentimentIQ
